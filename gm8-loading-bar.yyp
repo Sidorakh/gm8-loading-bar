@@ -1,0 +1,39 @@
+{
+  "$GMProject":"v1",
+  "%Name":"gm8-loading-bar",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"GM8 Loading Bar","folderPath":"folders/GM8 Loading Bar.yy","name":"GM8 Loading Bar","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.100.0.1199",
+  },
+  "name":"gm8-loading-bar",
+  "resources":[
+    {"id":{"name":"obj_gm8_loading_screen","path":"objects/obj_gm8_loading_screen/obj_gm8_loading_screen.yy",},},
+    {"id":{"name":"rm_gm8_loading","path":"rooms/rm_gm8_loading/rm_gm8_loading.yy",},},
+    {"id":{"name":"scr_gm8_loading_bar_init","path":"scripts/scr_gm8_loading_bar_init/scr_gm8_loading_bar_init.yy",},},
+    {"id":{"name":"spr_gm8_loading_bar","path":"sprites/spr_gm8_loading_bar/spr_gm8_loading_bar.yy",},},
+    {"id":{"name":"spr_gm8_loading_screen","path":"sprites/spr_gm8_loading_screen/spr_gm8_loading_screen.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rm_gm8_loading","path":"rooms/rm_gm8_loading/rm_gm8_loading.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
